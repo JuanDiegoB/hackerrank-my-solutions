@@ -8,5 +8,8 @@ obj/
 *.suo
 *.exe
 
+# Visual Studio Code
+.vscode/
+
 # Archivos de publicación
 publish/
