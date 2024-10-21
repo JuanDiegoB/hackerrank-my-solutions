@@ -1,0 +1,12 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración de usuario
+.vs/
+*.user
+*.suo
+*.exe
+
+# Archivos de publicación
+publish/
